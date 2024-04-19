@@ -1,1 +1,9 @@
-
+   Contents:
+       Introduction to Web,
+       BrowserDOM tree 
+       Intro to Browser internals(HTML parser, CSS parser) 
+       JavaScript V8 engine internals 
+       Intro to IP, MAC address, Ports HTTP Methods
+       HTTP Vs HTTPS  (SSL Explanation)
+       How Server Looks At Your URL
+       Browser JS VS Node JS
